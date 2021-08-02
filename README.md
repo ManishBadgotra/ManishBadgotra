@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manish Sharma (@eeshavarh), CS Grad Student
+- 👋 Hi, I’m Manish Sharma, Computer Applications Student.
 - 👀 I’m interested in new technologies and gadgets.
 - 🌱 I’m currently focusing on Flutter and Dart side by side.
 <!--- - 💞️ I’m looking to collaborate on ... --->
