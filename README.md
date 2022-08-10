@@ -41,13 +41,11 @@ const manish = {
 </a>
 </p>
 <br />
-<br />
 <p align="center">
 <a href="https://github.com/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBadgotra&layout=compact&theme=onedark" alt="Manish's Top Languages"/>
 </a>
 </p>
-<br />
 <br />
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBadgotra&theme=onedark" alt="Manish's Streaks" />
