@@ -1,37 +1,81 @@
-# Namaste🙏
+# Manish Sharma
 
-## Welcome to my profile
+**Golang Backend Developer (Fresher)**
+Uttar Pradesh, India
+📧 [badgotra.manish@gmail.com](mailto:badgotra.manish@gmail.com) | 📞 +91 9899326659
+🌐 Open to Remote Opportunities
 
-> Myself <b>Manish Sharma</b>
-#### About me
-- 👀 Techholic who is tinkering with High Level 0's and 1's for something useful to everyone.
-- Less motivated Student🧑‍🏫, grinding to be Motivation for others.
-- 🌱 I’m currently focusing on:
-     - [ ] Focusing on improving myself
-- 📫 How to reach me [Twitter](https://twitter.com/manishbadgotra) || [Instagram](https://instagram.com/manishbadgotraa)
+---
 
-#### Trophies
+## Professional Summary
 
-<p align="center"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManishBadgotra&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Manish Sharma"></a></p>
+Motivated and detail‑oriented Golang developer with hands‑on project experience building backend systems using APIs, concurrency, and automation workflows. Skilled in designing efficient server‑side logic, integrating third‑party services, and implementing scheduled background processes using goroutines. Seeking an entry‑level backend or Golang developer role where I can contribute strong problem‑solving skills and practical development experience.
 
-#### Stats
-<p align="center">
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishBadgotra&show_icons=true&include_all_commits=true&theme=onedark" alt="Manish's github stats" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBadgotra&layout=compact&theme=onedark" alt="Manish's Top Languages"/>
-</a>
-</p>
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBadgotra&theme=onedark" alt="Manish's Streaks" />
-</p>
+---
+
+## Technical Skills
+
+**Languages:** Go (Golang), JavaScript (Basic), HTML, CSS
+**Backend Development:** REST API integration, JSON handling, HTTP services
+**Databases:** MySQL (Basic), MongoDB (Basic)
+**Concepts:** Concurrency, Goroutines, Scheduling Tasks, API Integration, Backend Architecture
+**Tools:** Git, GitHub, VS Code
+**Other:** Debugging, Code Optimization, Documentation
+
+---
+
+## Project Experience
+
+### Vehicle Document Tracking Backend System
+
+**Repository:** [https://github.com/ManishBadgotra/vehicle-details](https://github.com/ManishBadgotra/vehicle-details)
+**Role:** Backend Developer (Freelance Project)
+
+**Description:**
+Developed a backend service for a client that monitors vehicle document expiration dates and provides automated status updates. The system integrates with a third‑party vendor API to fetch vehicle details and determine which documents are expired or nearing expiration.
+
+**Key Contributions:**
+
+* Designed backend logic to process and filter vehicle document data.
+* Integrated third‑party API to retrieve real‑time vehicle information.
+* Implemented a scheduled goroutine process that fetches updated data weekly based on client requirements.
+* Structured responses to clearly categorize expired vs. soon‑to‑expire documents.
+* Ensured reliable background execution without blocking main processes.
+
+**Technologies Used:** Golang, REST APIs, JSON parsing, Goroutines
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+Chaudhary Charan Singh University — 2022
+
+---
+
+## Strengths
+
+* Strong logical reasoning and backend problem solving
+* Quick learner with ability to understand new systems rapidly
+* Comfortable working independently in remote environments
+* Clean and maintainable code practices
+
+---
+
+## Keywords
+
+Golang Developer, Go Developer, Backend Developer, REST API, API Integration, Concurrency, Goroutines, Entry Level Developer, Junior Backend Developer, Remote Developer, JSON Processing, Server Side Development, Software Developer, MySQL, MongoDB
+
+---
+
+## Declaration
+
+I hereby declare that the information provided above is true and accurate to the best of my knowledge.
+>
 
 ------
 Credit: [Manish Sharma](https://github.com/ManishBadgotra)
 <br />
-Last Edited on Date & Time: August 01, 2023 & 03:41 PM IST.
+Last Edited on Date & Time: February 19, 2026 & 14:00 IST.
 <br/>
 Made with :heart:.
