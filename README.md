@@ -3,7 +3,7 @@
 **Golang Backend Developer (Fresher)**\
 Uttar Pradesh, India\
 📧 [badgotra.manish@gmail.com](mailto:badgotra.manish@gmail.com) | 📞 [+91 9899326659](tel:+919899326659) \
-🌐 Open to Remote Opportunities\
+🌐 Open to Remote Opportunities
 
 ---
 
