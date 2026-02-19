@@ -1,9 +1,9 @@
 # Manish Sharma
 
-**Golang Backend Developer (Fresher)**
-Uttar Pradesh, India
-📧 [badgotra.manish@gmail.com](mailto:badgotra.manish@gmail.com) | 📞 +91 9899326659
-🌐 Open to Remote Opportunities
+**Golang Backend Developer (Fresher)**\
+Uttar Pradesh, India\
+📧 [badgotra.manish@gmail.com](mailto:badgotra.manish@gmail.com) | 📞 [+91 9899326659](callto:+919899326659) \
+🌐 Open to Remote Opportunities\
 
 ---
 
@@ -15,12 +15,12 @@ Motivated and detail‑oriented Golang developer with hands‑on project experie
 
 ## Technical Skills
 
-**Languages:** Go (Golang), JavaScript (Basic), HTML, CSS
-**Backend Development:** REST API integration, JSON handling, HTTP services
-**Databases:** MySQL (Basic), MongoDB (Basic)
-**Concepts:** Concurrency, Goroutines, Scheduling Tasks, API Integration, Backend Architecture
-**Tools:** Git, GitHub, VS Code
-**Other:** Debugging, Code Optimization, Documentation
+**Languages:** Go (Golang), JavaScript (Basic), HTML, CSS \
+**Backend Development:** REST API integration, JSON handling, HTTP services \
+**Databases:** MySQL (Basic), MongoDB (Basic) \
+**Concepts:** Concurrency, Goroutines, Scheduling Tasks, API Integration, Backend Architecture \
+**Tools:** Git, GitHub, VS Code \
+**Other:** Debugging, Code Optimization, Documentation   
 
 ---
 
@@ -72,10 +72,3 @@ Golang Developer, Go Developer, Backend Developer, REST API, API Integration, Co
 
 I hereby declare that the information provided above is true and accurate to the best of my knowledge.
 >
-
-------
-Credit: [Manish Sharma](https://github.com/ManishBadgotra)
-<br />
-Last Edited on Date & Time: February 19, 2026 & 14:00 IST.
-<br/>
-Made with :heart:.
